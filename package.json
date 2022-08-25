@@ -34,8 +34,8 @@
   "devDependencies": {
     "@esoto/helpers": "workspace:0.0.1-rc.2",
     "@types/node": "^18.7.13",
-    "@typescript-eslint/eslint-plugin": "^5.34.0",
-    "@typescript-eslint/parser": "^5.34.0",
+    "@typescript-eslint/eslint-plugin": "^5.35.1",
+    "@typescript-eslint/parser": "^5.35.1",
     "eslint": "^8.22.0",
     "prettier": "^2.7.1"
   },
