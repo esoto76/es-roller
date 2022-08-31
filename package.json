@@ -23,7 +23,7 @@
     "@rollup/plugin-node-resolve": "^13.3.0",
     "@rollup/plugin-replace": "^4.0.0",
     "deepmerge": "^4.2.2",
-    "rollup": "^2.78.1",
+    "rollup": "^2.79.0",
     "rollup-plugin-add-shebang": "^0.3.1",
     "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-node-externals": "^4.1.1",
@@ -33,9 +33,9 @@
   },
   "devDependencies": {
     "@esoto/helpers": "workspace:0.0.1-rc.2",
-    "@types/node": "^18.7.13",
-    "@typescript-eslint/eslint-plugin": "^5.35.1",
-    "@typescript-eslint/parser": "^5.35.1",
+    "@types/node": "^18.7.14",
+    "@typescript-eslint/eslint-plugin": "^5.36.1",
+    "@typescript-eslint/parser": "^5.36.1",
     "eslint": "^8.23.0",
     "prettier": "^2.7.1"
   },
