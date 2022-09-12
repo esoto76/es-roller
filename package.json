@@ -20,7 +20,7 @@
     "@rollup/plugin-babel": "^5.3.1",
     "@rollup/plugin-commonjs": "^22.0.2",
     "@rollup/plugin-json": "^4.1.0",
-    "@rollup/plugin-node-resolve": "^14.0.1",
+    "@rollup/plugin-node-resolve": "^14.1.0",
     "@rollup/plugin-replace": "^4.0.0",
     "deepmerge": "^4.2.2",
     "rollup": "^2.79.0",
@@ -29,14 +29,14 @@
     "rollup-plugin-node-externals": "^5.0.0",
     "rollup-plugin-ts": "^3.0.2",
     "tslib": "^2.4.0",
-    "typescript": "^4.8.2"
+    "typescript": "^4.8.3"
   },
   "devDependencies": {
     "@esoto/helpers": "workspace:0.0.1-rc.2",
     "@types/node": "^18.7.16",
     "@typescript-eslint/eslint-plugin": "^5.36.2",
     "@typescript-eslint/parser": "^5.36.2",
-    "eslint": "^8.23.0",
+    "eslint": "^8.23.1",
     "prettier": "^2.7.1"
   },
   "repository": {
